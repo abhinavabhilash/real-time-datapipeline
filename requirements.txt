@@ -1,0 +1,23 @@
+# Stream ingestion (Apache Kafka Python client)
+confluent-kafka==2.6.1
+
+# Distributed stream processing
+pyspark==3.5.3
+
+# Realistic synthetic data generation
+faker==33.1.0
+
+# PostgreSQL connectivity
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.36
+
+# Dashboard & visualization
+streamlit==1.40.1
+plotly==5.24.1
+pandas==2.2.3
+
+# Configuration management
+python-dotenv==1.0.1
+
+# Testing
+pytest==8.3.4
